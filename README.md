@@ -1,4 +1,4 @@
-# todo
+# to-do-application
 To-do application
 
 ## Getting Started
